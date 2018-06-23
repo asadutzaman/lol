@@ -26,20 +26,16 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">NAVIGATION</li>
         <li class="">
-          <a href="index.php">
+          <a href="home.php">
             <i class="fa fa-dashboard"></i> <span>Dashboard</span>
           </a>
         </li>
         <li class="">
-          <a href="form.php">
-            <i class="fa fa-edit"></i> <span>Forms</span>
+          <a href="a_request_process.php">
+            <i class="fa fa-table"></i> <span>Request Table</span>
           </a>
         </li>
-        <li class="">
-          <a href="report.php">
-            <i class="fa fa-table"></i> <span>Report Tables</span>
-          </a>
-        </li>
+        
       </ul>
     </section>
     <!-- /.sidebar -->
